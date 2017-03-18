@@ -10,7 +10,7 @@ Once the account has been activated, You can purchase a top up to get [FREE 100 
 
 The Email Verifier App's - Bulk Email Verification APIs are all available individually, or you can validate multiple email lists one in one call. 
 
-More details on our Form Validation API
+More details on our Bulk Email Verification API
 -------------
 
 * [Status](https://www.emailverifierapp.com/batch-email-verification-api-for-developers/status/)
